@@ -1,0 +1,1 @@
+started with basic htl 5 format, titled it 99 bottles, linked the html to the css, gave a ref url, gave it a header with two span class one beer on the wall and another one bottle of beer, made 99 img tag of beer moved on to css. On  css i made the cursor diiffrent when it touches a bottle centered and messed with the text size,color,effects. 
